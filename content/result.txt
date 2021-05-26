@@ -1,0 +1,14 @@
+Here is the result: 
+FIRST FILE
+this is the first text file
+just testing the contents
+ SECOND FILE
+this is the second text file
+just testing the contents
+Here is the result: 
+FIRST FILE
+this is the first text file
+just testing the contents
+ SECOND FILE
+this is the second text file
+just testing the contents
